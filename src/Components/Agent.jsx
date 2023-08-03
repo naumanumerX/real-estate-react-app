@@ -9,7 +9,6 @@ function Agent(props) {
  < div className='a-heading'>
             <h1>Agents</h1>
            
-       
     </div>
     <div className="b-container">
         <Agentbox image={agentimage1} name="Nauman "/>
