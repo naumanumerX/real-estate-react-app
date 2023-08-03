@@ -10,6 +10,7 @@ function BuyHouse(props) {
             <p>Address:{props.adrress}</p>
             <a href="#" className='price'>Price: {props.price}</a>
             <p>Area: {props.area}</p>
+            
             <br />
             
             <a href="#" className='buy-btn'>Buy</a>
