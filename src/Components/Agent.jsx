@@ -13,7 +13,6 @@ function Agent(props) {
     <div className="b-container">
         <Agentbox image={agentimage1} name="Nauman "/>
         <Agentbox image={agentimage2} name="Iftakhar"/>
-        
         <Agentbox image={agentimage3} name="Fatima"/>
     </div>
      </div>
