@@ -13,6 +13,7 @@ export default function Howitwork() {
 
             <h4>Find a House </h4>
             <p> Make payment using Etherum</p>
+            
           </span>
         </div>
         
