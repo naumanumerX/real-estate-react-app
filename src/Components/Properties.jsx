@@ -17,6 +17,7 @@ export default function Properties () {
         <a href="#"><h3>Buy/Sell </h3></a>
         
         <p>Select the house to buy /sell</p>
+        
      
     </div>
     <div className="product-container">
