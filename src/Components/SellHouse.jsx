@@ -10,6 +10,7 @@ function SellHouse(props) {
             <h3>House {props.id}</h3>
             <p>Owner:{props.name}</p>
             <p>Address:{props.adrress}</p>
+            
             <a href="#" className='price'>Area: {props.area}</a>
             <br />
             
