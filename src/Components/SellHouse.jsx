@@ -3,7 +3,7 @@ import React from 'react'
 function SellHouse(props) {
   return (
     <div className="p-box">
-        <h3>Sell</h3>
+        <h3>Sell A House</h3>
         <img src={props.image} alt='product'/>
         <div className="p-heading">
              
